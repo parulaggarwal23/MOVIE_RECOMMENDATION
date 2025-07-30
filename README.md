@@ -1,2 +1,2 @@
 # MOVIE_RECOMMENDATION
-It's a website which helps in suggesting movies based on your mood, genre  etc.
+It's a website which helps in suggesting movies based on your mood, genre  etc....
